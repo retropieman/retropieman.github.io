@@ -2,7 +2,7 @@
 [Software](software.md)
 
 
-[Learn](https://www.example.com)
+[Learn](learn.md)
 
 
 [about](https://www.example.com)
