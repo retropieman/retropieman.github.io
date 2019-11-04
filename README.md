@@ -5,4 +5,4 @@
 [Learn](learn.md)
 
 
-[about](https://www.example.com)
+[about](about.md)
