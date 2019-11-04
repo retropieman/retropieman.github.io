@@ -1,5 +1,5 @@
 # Collabs
-[Go back](README.md)
+[Go home](README.md)
 
 [iheartcats45](https://scratch.mit.edu/users/iheartcats45)
 
