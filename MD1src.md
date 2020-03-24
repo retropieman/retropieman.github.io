@@ -1,2 +1,0 @@
-# Maze dungeon embed code
-'<iframe src="https://scratch.mit.edu/projects/220000767/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>'
